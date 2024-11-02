@@ -1,4 +1,4 @@
-[- 👋 Hi, I’m @MetaCodeGuy
+- 👋 Hi, I’m @MetaCodeGuy
 - 👀 I’m interested in space and technology
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on ...
